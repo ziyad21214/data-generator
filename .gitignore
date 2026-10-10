@@ -1,0 +1,8 @@
+build/
+dist/
+*.exe
+
+fcv_app/__pycache__/
+*.pyc
+
+.venv/
